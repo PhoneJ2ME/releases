@@ -432,6 +432,7 @@ phoneme_feature-mr2-rel-b23/javacall/implementation/win32/midp/img/symbols.bmp s
 phoneme_feature-mr2-rel-b23/javacall/implementation/win32/midp/res/images/emulator.ico svn_mime_002dtype=application%2Foctet-stream
 phoneme_feature-mr2-rel-b23/javacall/implementation/win32/midp/res/images/phoneH.bmp svn_mime_002dtype=application%2Foctet-stream
 phoneme_feature-mr2-rel-b23/javacall/implementation/win32/midp/res/images/phoneV.bmp svn_mime_002dtype=application%2Foctet-stream
+phoneme_feature-mr2-rel-b23/jsr177/src/test/i3test/com/sun/satsa/utils/TestIA5.java svn_eol_002dstyle=LF
 phoneme_feature-mr2-rel-b23/midp/src/ams/ams_api/reference/classes/com/sun/midp/midlet/doc-files/midletstates.gif svn_mime_002dtype=application%2Foctet-stream
 phoneme_feature-mr2-rel-b23/midp/src/ams/ams_api/reference/classes/javax/microedition/midlet/doc-files/App-States.gif svn_mime_002dtype=application%2Foctet-stream
 phoneme_feature-mr2-rel-b23/midp/src/ams/ams_base/reference/classes/com/sun/midp/main/doc-files/runtime.gif svn_mime_002dtype=application%2Foctet-stream
